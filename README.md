@@ -1,3 +1,3 @@
 # projeto-parallax
 Site parallax
-https://gushigustavo.github.io/projeto-parallax/
+<a href="https://gushigustavo.github.io/projeto-parallax/" target="_blank" rel="external">Site parallax</a>
