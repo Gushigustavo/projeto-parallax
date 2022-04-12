@@ -16,6 +16,7 @@ body{
     font-family: var(--font1);
     background-color: bisque;
     height: 100vh;
+    max-width: 100vw;
     
 }
 
@@ -83,7 +84,7 @@ section.text{
 
 }
 section.text p{
-    font-size: 1em;
+    font-size:1em;
     font-weight: normal;
     line-height: 30px;
 }
